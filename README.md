@@ -33,18 +33,18 @@ A lightweight CMS for **managing blogs or business websites** without relying on
 ---
 
 ## 🛠️ Tech Stack  
-![JavaScript]
-![React]
-![SCSS]
-![Git]
-![GitHub]
-![Python]
-![ML]
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript)  
+![React](https://img.shields.io/badge/Framework-React-blue?logo=react)  
+![SCSS](https://img.shields.io/badge/Style-SCSS-pink?logo=sass)  
+![Git](https://img.shields.io/badge/Tools-Git-orange?logo=git)  
+![GitHub](https://img.shields.io/badge/Platform-GitHub-black?logo=github)  
+![Python](https://img.shields.io/badge/Learning-Python-blue?logo=python)  
+![ML](https://img.shields.io/badge/Exploring-Machine%20Learning-green)  
 
 ---
 
 ## 📬 Let’s Connect  
-- 🌐 [LinkedIn] www.linkedin.com/in/mohamed-essam-elsadany-954767281
+- 🌐 [LinkedIn](https://linkedin.com)  
 - 💻 [Portfolio Website](#) *(coming soon)*  
 - ✉️ Always open to **collaborations, internships & remote work**  
 
