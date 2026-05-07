@@ -1,52 +1,45 @@
-# 👋 Hi, I’m Mohamed Elsadany  
+# Hi, I'm Mohamed Elsadany 👋
 
-💻 **2nd-year CS Student | Frontend Developer | Aspiring Data Scientist & ML Engineer**  
-🌍 Open to **remote internships, part-time, or full-time roles**  
-🚀 Building real-world solutions that solve today’s problems  
+**CS & Cybersecurity Student** · Frontend Developer · Aspiring Data Scientist & ML Engineer
 
----
+Open to internships, part-time roles, and worldwide opportunities — building real-world solutions that matter.
 
-## 🚀 Featured Projects  
-
-### 📌 [Job Tracker App](#)  
-A web app to help job seekers **organize applications, track interview stages, and stay motivated**.  
-- 🛠 Built with **React, JavaScript, and SCSS**  
-- 📊 Features: Add, update, and categorize job applications  
-- 🌍 Solves a real problem in today’s job market  
+![Egypt](https://img.shields.io/badge/Egypt-blue?style=flat-square) ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-7048e8?style=flat-square) ![Open to Internships](https://img.shields.io/badge/Open%20to%20Internships-2f9e44?style=flat-square) ![Worldwide](https://img.shields.io/badge/Worldwide-2f9e44?style=flat-square) ![Building in Public](https://img.shields.io/badge/Building%20in%20Public-c92a2a?style=flat-square)
 
 ---
 
-### 🤖 [AI-Powered Interview Prep App](#)  
-An AI-driven app that **helps candidates practice interviews** with auto-generated questions & feedback.  
-- 🛠 Tech: **JavaScript, APIs, and AI integrations**  
-- 🎯 Goal: Boost confidence & readiness for job seekers  
-- 🚀 Solves: Lack of affordable, smart interview practice tools  
+## Featured Projects
+
+### AI Interview Prep App
+An AI-driven platform for practicing interviews with auto-generated questions and instant feedback — making smart preparation accessible and affordable.
+
+`JavaScript` `AI APIs` `Integrations`
 
 ---
 
-### 📝 [Custom CMS](#)  
-A lightweight CMS for **managing blogs or business websites** without relying on WordPress.  
-- 🛠 Tech: **React + Node.js**  
-- 📊 Features: Create, edit, delete posts; user-friendly UI  
-- 🌍 Solves: Small businesses needing simple website control  
+### CMS Pro
+A lightweight content management system for blogs and business websites — giving small businesses full control without the complexity of WordPress.
+
+`React` `Node.js` `User-friendly UI`
 
 ---
 
-## 🛠️ Tech Stack  
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript)  
-![React](https://img.shields.io/badge/Framework-React-blue?logo=react)  
-![SCSS](https://img.shields.io/badge/Style-SCSS-pink?logo=sass)  
-![Git](https://img.shields.io/badge/Tools-Git-orange?logo=git)  
-![GitHub](https://img.shields.io/badge/Platform-GitHub-black?logo=github)  
-![Python](https://img.shields.io/badge/Learning-Python-blue?logo=python)  
-![ML](https://img.shields.io/badge/Exploring-Machine%20Learning-green)  
+### ReceiptFree
+A digital receipt platform for local clothing brands in Egypt. Replaces paper receipts via a monthly SaaS subscription, with Arabic language support and EGP pricing as core differentiators.
+
+`SaaS` `Arabic support` `Egypt market` `Pre-MVP`
 
 ---
 
-## 📬 Let’s Connect  
-- 🌐 [LinkedIn]: www.linkedin.com/in/mohamed-essam-elsadany-954767281
-- ✉️ Always open to **collaborations, internships & remote work**  
+## Tech Stack
+
+`React` `JavaScript` `SCSS` `Node.js` `Python` `ML / AI APIs` `SQL` `Cybersecurity` `Git`
 
 ---
 
-⚡ *Always learning, always building.*  
+## Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
