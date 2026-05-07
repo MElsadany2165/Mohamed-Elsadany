@@ -1,6 +1,6 @@
 # Hi, I'm Mohamed Elsadany 👋
 
-**CS & Cybersecurity Student** · Frontend Developer · Aspiring Data Scientist & ML Engineer
+**CS & Cybersecurity Student** · Frontend Developer 
 
 Open to internships, part-time roles, and worldwide opportunities — building real-world solutions that matter.
 
