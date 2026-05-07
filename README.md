@@ -45,7 +45,6 @@ A lightweight CMS for **managing blogs or business websites** without relying on
 
 ## 📬 Let’s Connect  
 - 🌐 [LinkedIn]: www.linkedin.com/in/mohamed-essam-elsadany-954767281
-- 💻 [Portfolio Website](#) *(coming soon)*  
 - ✉️ Always open to **collaborations, internships & remote work**  
 
 ---
